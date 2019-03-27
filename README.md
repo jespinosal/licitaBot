@@ -1,5 +1,5 @@
 # licitaBot
-Text sentence level classificator to extract contract information from public tenders in .pdf source. It is a text clasification system that includes all the flow, sice data extraction (data in pdf format) to text clasification and EER.
+Text sentence level classificator to extract contract information from public tenders in .pdf source. It is a text clasification system that includes all the flow, sice data extraction (data in pdf format) to text clasification.
 
 Librearies:
 
