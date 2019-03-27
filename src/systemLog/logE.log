@@ -1,0 +1,36 @@
+[2019-03-21 23:40:33] {<input>:27} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "<input>", line 15, in <module>
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-21 23:45:16] {<input>:28} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "<input>", line 15, in <module>
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-22 00:17:52] {<input>:412} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "<input>", line 398, in readSeveralDocuments
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-23 08:05:53] {<input>:412} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "<input>", line 398, in readSeveralDocuments
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-23 08:24:32] {readInput.py:412} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "/home/espinosa/Escritorio/licitaBot/src/readInput.py", line 398, in readSeveralDocuments
+    raise Warning('Documento %s Vacio' % licitacion)
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-23 19:40:57] {readInput.py:412} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "/home/espinosa/Escritorio/licitaBot/src/readInput.py", line 398, in readSeveralDocuments
+    raise Warning('Documento %s Vacio' % licitacion)
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-24 00:42:26] {readInput.py:412} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "/home/espinosa/Escritorio/licitaBot/src/readInput.py", line 398, in readSeveralDocuments
+    raise Warning('Documento %s Vacio' % licitacion)
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+[2019-03-24 01:04:29] {readInput.py:412} [ERROR] - Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
+Traceback (most recent call last):
+  File "/home/espinosa/Escritorio/licitaBot/src/readInput.py", line 398, in readSeveralDocuments
+    raise Warning('Documento %s Vacio' % licitacion)
+Warning: Documento /home/espinosa/Escritorio/licitaBot/src/inputFiles/estudios previos.pdf Vacio
